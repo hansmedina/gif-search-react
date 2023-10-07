@@ -1,4 +1,15 @@
-# React + Vite
+# Gif expert app
+
+
+este es mi repositorio del curso de React
+
+vite
+yarn
+js
+React como +20
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
